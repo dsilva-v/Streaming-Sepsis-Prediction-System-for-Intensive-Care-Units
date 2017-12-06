@@ -1,0 +1,7 @@
+*.pyc
+
+# Sepsis score python library folders
+sepsis_score_python/__MACOSX
+sepsis_score_python/sepsis_score_python
+FHIRPower/.idea
+*/.idea
